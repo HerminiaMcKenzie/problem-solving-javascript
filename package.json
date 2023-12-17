@@ -1,5 +1,5 @@
 {
-  "name": "problem-solving-in-js",
+# "name": "problem-solving-in-js",
   "version": "1.0.0",
   "engines": {
     "node": "^14"
@@ -39,3 +39,4 @@
     "jest": "^25.0.0"
   }
 }
+ 
